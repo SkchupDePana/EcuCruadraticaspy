@@ -23,8 +23,7 @@ _10-1_
 * **Samuel Montoya**
 
 ## Librerias
-* **[Pygame](https://github.com/villanuevand)**
+* **[Pygame](https://www.pygame.org)** - *Base Del juego*
+* **[Mathplotlib](https://matplotlib.org/)** - *graficas*
 
-math
-mathplotlib
 
