@@ -23,7 +23,8 @@ _10-1_
 * **Samuel Montoya**
 
 ## Librerias
-pygame
+* **[Pygame](https://github.com/villanuevand)**
+
 math
 mathplotlib
 
