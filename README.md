@@ -16,8 +16,8 @@ _la Persona decide su tiempo y la dificultad_
 _Puede elegir el tipo de ecuacion y no tiene tiempo limite_
 
 ## integrantes:
-_Jeronimo Patiño Betancur 10-1_
-_Samuel Montoya 10-1_
+* **Jeronimo Patiño Betancurt** 
+* **Samuel Montoya**
 
 ## Librerias:
 pygame
