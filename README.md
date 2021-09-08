@@ -1,10 +1,10 @@
 #Proyecto de matematicas 
 
-##integrantes:
+## integrantes:
 _Jeronimo Patiño Betancur 10-1_
 _Samuel Montoya 10-1_
 
-##Librerias:
+## Librerias:
 pygame
 math
 mathplotlib
