@@ -1,4 +1,4 @@
-#Proyecto de matematicas 
+# proyecto de matematicas 
 
 ## integrantes:
 _Jeronimo Patiño Betancur 10-1_
