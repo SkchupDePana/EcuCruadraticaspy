@@ -1,5 +1,6 @@
 # proyecto de matematicas 
 _este trata de un juego en el cual se trata de resolver Ec. Cuadraticas en un tiempo limite tenieno varios modos como los cuales serian_
+
 ### Principiante 
 _Tiene buen tiempo y ecucaciones incompletas_
 
@@ -15,11 +16,13 @@ _la Persona decide su tiempo y la dificultad_
 ### Practica
 _Puede elegir el tipo de ecuacion y no tiene tiempo limite_
 
-## integrantes:
+## integrantes 
+_10-1_
+
 * **Jeronimo Patiño Betancurt** 
 * **Samuel Montoya**
 
-## Librerias:
+## Librerias
 pygame
 math
 mathplotlib
