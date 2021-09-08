@@ -1,11 +1,10 @@
-# EcuCruadraticaspy
+#Proyecto de matematicas 
 
-Proyecto de matematicas 
+##integrantes:
+_Jeronimo Patiño Betancur 10-1_
+_Samuel Montoya 10-1_
 
-Jeronimo Patiño Betancur 10-1 
-Samuel Montoya 10-1  
-
-Librerias:
+##Librerias:
 pygame
 math
 mathplotlib
