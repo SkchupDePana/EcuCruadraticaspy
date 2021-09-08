@@ -18,7 +18,6 @@ _Puede elegir el tipo de ecuacion y no tiene tiempo limite_
 
 ## integrantes 
 _10-1_
-
 * **Jeronimo Patiño Betancurt** 
 * **Samuel Montoya**
 
